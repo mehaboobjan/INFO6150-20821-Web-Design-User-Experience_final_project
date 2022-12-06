@@ -1,0 +1,252 @@
+[
+    {
+        "name" : "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+        "price" : "45.89",
+        "description" : "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you’ll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/dsvbpny402gelwugv2le",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670366978/sandisk_vcdxyl.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Nike Air Max 270",
+        "price" : "275",
+        "description" : "Nike's first lifestyle Air Max brings you style, comfort and big attitude in the Nike Air Max 270.",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/wmoa49q9e70ze9xtcra2",
+                "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670376161/nike_1_uorlq3.webp"
+            },
+            {
+                "public_id" : "products/i0k1wdwi5hrpmzwxvsds",
+                "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670376161/nike2_p6jks4.webp" 
+            }
+        
+    ],
+        "category" : "Clothes/Shoes",
+        "seller" : "Nike",
+        "stock" : 500,
+        "numOfReviews" : 1,
+        "reviews": []
+    },
+    {
+        "name" : "Air Jordan 7 Retro Q",
+        "price" : "150",
+        "description" : "Kick it back to '92 with this latest iteration of the AJ7, reviving the championship legacy for a new generation of sneakerheads. Come for the throwback style, stay all day for the premium construction and signature Air cushioning.",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/wmoa49q9e70ze9xtcra2",
+                "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670376161/shoe_2_jjnycq.webp"
+            },
+            {
+                "public_id" : "products/i0k1wdwi5hrpmzwxvsds",
+                "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670376161/2.2_ixzh7f.webp" 
+            }
+        
+    ],
+        "category" : "Clothes/Shoes",
+        "seller" : "Nike",
+        "stock" : 500,
+        "numOfReviews" : 1,
+        "reviews": []
+    },
+    {
+        "name" : "on-Ka Gommage Yon-Ka Peeling Gel ",
+        "price" : "40",
+        "description" : "HEALTHY, GLOWING COMPLEXION : Our pampering peeling gel exfoliant is a 4-in-1 facial peel that possesses an extraordinary exfoliating, clarifying, hydrating, and balancing effect in one. Composed of 94% ingredients of natural origin.",
+        "ratings" : 4,
+        "images" : [{
+            "public_id" : "products/61oXGZ60GfL_fixco9",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670377097/MicrosoftTeams-image_oificf.jpg"
+        }],
+        "category" : "Beauty/Health",
+        "seller" : "Amazon",
+        "stock" : 10,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    
+    {
+        "name" : "CAN USB FD Adapter (GC-CAN-USB-FD)",
+        "price" : "315.00",
+        "description" : "Monitor a CAN network, write a CAN program and communicate with industrial, medical, automotive or other CAN based device. Connect CAN FD and CAN networks to a computer via USB with the CAN USB FD adapter.",
+        "ratings" : 1.65,
+        "images" : [{
+            "public_id" : "products/61oXGZ60GfL_fixco9",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367224/USB_u7j5aq.webp"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 0,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "CHARMOUNT Full Motion TV Wall Mount Swivel",
+        "price" : "26.99 ",
+        "description" : "CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3). CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3) CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3).",
+        "ratings" : 3.5,
+        "images" : [{
+            "public_id" : "products/chairmount_nuubea",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367312/charmount_mmld7l.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 3,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+        "price" : "299.00 ",
+        "description" : "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work, or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II. Put them on and get closer to what you’re most passionate about. And that’s just the beginning. QuietComfort 35 wireless headphones II are now enabled with Bose AR",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/headphones_t2afnb",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367410/headphones_ldomow.png"
+        }],
+        "category" : "Headphones",
+        "seller" : "Amazon",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "Apple AirPods with Charging Case (Wired)",
+        "price" : "126.99 ",
+        "description" : "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "products/airpords_e5cqqr",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367486/airpods_tlcako.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 122,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+    {
+        "name" : "Harry Potter and the Order of the Phoenix: The Illustrated Edition (Harry Potter, Book 5)",
+        "price" : "35",
+        "description" : "There is a door at the end of a silent corridor. And it's haunting Harry Potter's dreams. Why else would he be waking in the middle of the night, screaming in terror? It's not just the upcoming O.W.L. exams; a new teacher with a personality like poisoned honey; a venomous, disgruntled house-elf; or even the growing threat of He-Who-Must-Not-Be-Named. Now Harry Potter is faced with the unreliability of the very government of the magical world and the impotence of the authorities at Hogwarts. Despite this (or perhaps because of it), he finds depth and strength in his friends, beyond what even he knew; boundless loyalty; and unbearable sacrifice..",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670377460/book_jogs83.webp"
+        }],
+        "category" : "Books",
+        "seller" : "JK Rowling",
+        "stock" : 5,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
+        "price" : "27.99",
+        "description" : "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
+        "ratings" : 4.1,
+        "images" : [{
+            "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367573/cableboom_egcn2c.jpg"
+        }],
+        "category" : "Accessories",
+        "seller" : "Amazon",
+        "stock" : 1123,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black ",
+        "price" : "496.95",
+        "description" : "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+        "ratings" : 4.7,
+        "images" : [{
+            "public_id" : "products/camera_ridc0i",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367647/camera_ewiunw.jpg"
+        }],
+        "category" : "Cameras",
+        "seller" : "Amazon",
+        "stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray ",
+        "price" : "949.99",
+        "description" : "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "products/macbook_o2cj2k",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367733/macbook_gpmwx6.jpg"
+        }],
+        "category" : "Laptops",
+        "seller" : "Amazon",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "BR714 RUTH VINTAGE WOOD BAT ",
+        "price" : "99.99",
+        "description" : "Feel like the most famous Yankee with this big beauty. And you better be about as strong as him to swing it!With its large diameter, thickness throughout and end weight, this bat has one massive barrel.",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "products/baseball_o2cj2k",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670377839/MicrosoftTeams-image_1_rhqle9.jpg"
+        }],
+        "category" : "Sports",
+        "seller" : "Red Sox",
+        "stock" : 5,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "2-1/16 Inch Premium Pool Snooker Balls Complete 22 Ball With Triangle Rack Sets ",
+        "price" : "120",
+        "description" : "Features:Set of 22 Snooker BallsThese Snooker balls are standard size 2-1/16 in diameter and 15 red balls5.25cm Package included: 1 x complete set of League Snooker Balls (22 balls) 1xTriangle(The item  can fit all billiard ball sizes) 2 X Billiard Snooker chalks",
+        "ratings" : 3.0,
+        "images" : [{
+            "public_id" : "products/snooker_o2cj2k",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670378041/MicrosoftTeams-image_2_jnbrqg.jpg"
+        }],
+        "category" : "Sports",
+        "seller" : "Snell",
+        "stock" : 5,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Kauffman Orchards Homegrown McIntosh Apples",
+        "price" : "2.75",
+        "description" : "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/wmoa49q9e70ze9xtcra2",
+                "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367920/apples_kodcfa.jpg"
+            },
+            {
+                "public_id" : "products/i0k1wdwi5hrpmzwxvsds",
+                "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367920/redapples_wyf6a9.jpg" 
+            },
+            {
+                "public_id" : "products/bshmuo9qisfhz4azvnsd",
+                "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670367920/greenapples_g1uxfg.jpg"
+            }
+    ],
+        "category" : "Food",
+        "seller" : "Kauffman's Fruit Farm & Market",
+        "stock" : 500,
+        "numOfReviews" : 1,
+        "reviews": []
+    }
+]
