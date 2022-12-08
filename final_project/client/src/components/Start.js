@@ -25,12 +25,12 @@ const Start = () => {
                 <p className="legend">Clothes</p>
             </div>
             <div>
-                <img src="https://images.unsplash.com/photo-1516527653392-602455dd9cf7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80" alt="" />
-                <p className="legend">My Photo 4</p>
+                <img src="https://res.cloudinary.com/djqty7gls/image/upload/v1670478394/beauty_htxfip.jpg" alt="" />
+                <p className="legend">Beauty Products</p>
             </div>
             <div>
-                <img src="https://images.unsplash.com/photo-1655365225165-8d727fe3a091?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=80" alt="" />
-                <p className="legend">My Photo 5</p>
+                <img src="https://res.cloudinary.com/djqty7gls/image/upload/v1670478595/books_gtnxfg.jpg" alt="" />
+                <p className="legend">Books</p>
             </div>
         </Carousel>
         <div align="center" className='butt'>

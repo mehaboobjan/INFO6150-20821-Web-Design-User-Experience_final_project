@@ -21,11 +21,9 @@ const Footer = () => {
                                     <p>Lorem ipsum dolor amet consetetur adi pisicing elit sed eiusm tempor in cididunt ut labore dolore magna aliqua enim.</p>
                                 </div>
                                 <ul class="social-links clearfix">
-                                    <li><i class="fa fa-facebook-f"></i></li>
+                                    <li><a href='https://www.facebook.com/goshoppingonline1' target='_blank'><i class="fa fa-facebook-f"></i></a></li>
                                     <li><i class="fa fa-twitter"></i></li>
-                                    <li><i class="fa fa-instagram"></i></li>
-                                    <li><i class="fa fa-google-plus-g"></i></li>
-                                    <li><i class="fa fa-linkedin-in"></i></li>
+                                    <li><a href='https://www.instagram.com/goshop.nsk/' target='_blank'><i class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -54,8 +52,8 @@ const Footer = () => {
                                 <div class="widget-content">
                                     <ul class="info-list clearfix">
                                         <li><i class="fa fa-map-marker-alt"></i>Flat 20, Reynolds Neck, North Helenaville, FV77 8WS</li>
-                                        <li><i class="fa fa-microphone"></i><a href="tel:23055873407">+2(305) 587-3407</a></li>
-                                        <li><i class="fa fa-envelope"></i><a href="mailto:info@example.com">info@example.com</a></li>
+                                        <li><i class="fa fa-microphone"></i><a href="tel:23055873407">+1(305) 587-3407</a></li>
+                                        <li><i class="fa fa-envelope"></i><a href="mailto:info@example.com">info@goshop.com</a></li>
                                     </ul>
                                 </div>
                             </div>
