@@ -150,6 +150,21 @@
         "reviews": []
     },
     {
+        "name" : "adidas Classic 3S Sackpack, Jersey Onix Grey/Black, One Size",
+        "price" : "19",
+        "description" : "Go back to school in style with the classic 3s sackpack. drawing on the adidas footwear heritage, this bag features bold 3-stripes branding and 2 zippered pockets for storage.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
+            "url" : "https://res.cloudinary.com/djqty7gls/image/upload/v1670534673/addidas_e9jjae.jpg"
+        }],
+        "category" : "Clothes/Shoes",
+        "seller" : "adidas",
+        "stock" : 5,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
         "name" : "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
         "price" : "27.99",
         "description" : "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
