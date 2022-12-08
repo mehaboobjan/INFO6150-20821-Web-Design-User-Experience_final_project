@@ -57,16 +57,18 @@ footer {
   }
   
   .footer-top .logo-widget{
-    position: relative;
+    position:relative;
     margin-right: -15px;
   }
   
   .footer-top .logo-widget .footer-logo{
     position: relative;
+    margin-left: 20px;
     margin-bottom: 35px;
   }
   
   .footer-top .logo-widget .text{
+    margin-left: 20px;
     margin-bottom: 50px;
   }
   
@@ -94,7 +96,7 @@ footer {
   }
   
   .footer-top .logo-widget .social-links li a:hover{
-  
+    background-color: rgb(50, 17, 17);
   }
   
   .footer-top .links-widget{
@@ -131,7 +133,7 @@ footer {
   }
   
   .footer-top .links-widget .links-list li a:hover{
-    
+    background-color: aquamarine;
   }
   
   .footer-top .links-widget .links-list li a:before{
@@ -162,7 +164,6 @@ footer {
   .footer-top .gallery-widget .image-list li{
     position: relative;
     display: inline-block;
-    float: left;
     margin: 0px 5px 10px 5px;
   }
   
@@ -237,15 +238,13 @@ footer {
   
   .footer-bottom .copyright p,
   .footer-bottom .copyright p a{
+    margin-left: 20px;
     font-size: 15px;
     line-height: 26px;
     color: #aeb1b8;
   }
   
-  .footer-bottom .copyright p a:hover{
-  
-  }
-  
+ 
   .footer-bottom .footer-nav li{
     position: relative;
     display: inline-block;
