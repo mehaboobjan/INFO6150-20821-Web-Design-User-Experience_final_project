@@ -6,7 +6,10 @@ const Footer = () => {
   const back = {backgroundImage:'url(https://res.cloudinary.com/djqty7gls/image/upload/v1670449775/shape-11_yjib92.png)'};
   const width = {width:'40px'};
   return (
-    <footer class="main-footer bg-color-2">
+    <footer class="main-footer bg-dark">
+      <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"></link>
+      <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"></link>
+      <script src="https://kit.fontawesome.com/95817e6879.js" crossorigin="anonymous"></script>
       <div class="footer-top pt-130">
       <div class="vector-bg" style={{...back}}></div>
                 <div class="auto-container">
@@ -18,11 +21,11 @@ const Footer = () => {
                                     <p>Lorem ipsum dolor amet consetetur adi pisicing elit sed eiusm tempor in cididunt ut labore dolore magna aliqua enim.</p>
                                 </div>
                                 <ul class="social-links clearfix">
-                                    <li><i class="fab fa-facebook-f"></i></li>
-                                    <li><i class="fab fa-twitter"></i></li>
-                                    <li><i class="fab fa-instagram"></i></li>
-                                    <li><i class="fab fa-google-plus-g"></i></li>
-                                    <li><i class="fab fa-linkedin-in"></i></li>
+                                    <li><i class="fa fa-facebook-f"></i></li>
+                                    <li><i class="fa fa-twitter"></i></li>
+                                    <li><i class="fa fa-instagram"></i></li>
+                                    <li><i class="fa fa-google-plus-g"></i></li>
+                                    <li><i class="fa fa-linkedin-in"></i></li>
                                 </ul>
                             </div>
                         </div>
@@ -50,9 +53,9 @@ const Footer = () => {
                                 </div>
                                 <div class="widget-content">
                                     <ul class="info-list clearfix">
-                                        <li><i class="fas fa-map-marker-alt"></i>Flat 20, Reynolds Neck, North Helenaville, FV77 8WS</li>
-                                        <li><i class="fas fa-microphone"></i><a href="tel:23055873407">+2(305) 587-3407</a></li>
-                                        <li><i class="fas fa-envelope"></i><a href="mailto:info@example.com">info@example.com</a></li>
+                                        <li><i class="fa fa-map-marker-alt"></i>Flat 20, Reynolds Neck, North Helenaville, FV77 8WS</li>
+                                        <li><i class="fa fa-microphone"></i><a href="tel:23055873407">+2(305) 587-3407</a></li>
+                                        <li><i class="fa fa-envelope"></i><a href="mailto:info@example.com">info@example.com</a></li>
                                     </ul>
                                 </div>
                             </div>

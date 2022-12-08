@@ -25,8 +25,11 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.2.1",
     "jsonwebtoken": "^8.5.1",
+    "mdb-react-ui-kit": "^5.0.0",
     "mongoose": "^5.12.10",
     "nodemailer": "^6.6.0",
+    "react-carousel-minimal": "^1.4.1",
+    "react-carousel3": "^1.0.0",
     "stripe": "^8.149.0",
     "validator": "^13.6.0"
   },

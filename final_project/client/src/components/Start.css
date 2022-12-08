@@ -1,0 +1,11 @@
+.caro h1{
+    font-family: 'Apple Chancery, cursive';
+}
+Carousel {
+    width: 100px;
+}
+
+.butt button{
+    width: 250px;
+    border-radius: 8px;
+}

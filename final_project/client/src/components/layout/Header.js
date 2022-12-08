@@ -26,7 +26,7 @@ const Header = () => {
 
   return (
     <>
-       <nav className="navbar row">
+       <nav className="navbar navbar-fixed-top">
       <div className="col-12 col-md-3">
         <div className="navbar-brand">
           <Link to='/'>

@@ -4,6 +4,7 @@ import { Route } from 'react-router-dom'
 import Header from './components/layout/Header'
 import Footer from './components/layout/Footer'
 
+import Start from './components/Start'
 import Home from './components/Home'
 import ProductDetails from './components/product/ProductDetails'
 
@@ -72,7 +73,8 @@ function App() {
 		<>
 			<Header />
 			<div className='container container-fluid'>
-				<Route exact path='/' component={Home} />
+			    <Route exact path='/' component={Start} />
+				<Route exact path='/home' component={Home} />
 				<Route path='/search/:keyword' component={Home} />
 				<Route exact path='/product/:id' component={ProductDetails} />
 
@@ -91,7 +93,7 @@ function App() {
 				)}
 
 				<Route path='/login' component={Login} />
-				<Route path='/register' component={Register} />
+				<Route path='/Register' component={Register} />
 				<Route exact path='/password/forgot' component={ForgotPassword} />
 				<Route exact path='/password/reset/:token' component={ResetPassword} />
 
